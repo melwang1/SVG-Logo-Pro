@@ -2,7 +2,7 @@
 
 LIVE URL:
 
-http://127.0.0.1:5500/LOGO.svg
+https://melwang1.github.io/SVG-Logo-Pro/
 
 <img width="205" alt="Screen Shot 2023-05-28 at 12 30 09 PM" src="https://github.com/melwang1/SVG-Logo-Pro/assets/126200765/c3c028db-dc3e-499b-9e4f-743fd7b53b0b">
 
