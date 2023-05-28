@@ -4,6 +4,10 @@ LIVE URL:
 
 https://melwang1.github.io/SVG-Logo-Pro/
 
+Video Walk Through
+
+https://drive.google.com/drive/u/0/folders/1RZQ9qFL3ftDp7VQBbFVQaUoJeUoZjlSi
+
 <img width="205" alt="Screen Shot 2023-05-28 at 12 30 09 PM" src="https://github.com/melwang1/SVG-Logo-Pro/assets/126200765/c3c028db-dc3e-499b-9e4f-743fd7b53b0b">
 
 
